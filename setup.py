@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'forked_ecephys_spike_sorting',
-    version = '0.1.0',
+    version = '0.1.1',
     description = """Tools for spike-sorting Allen Institute Neuropixels data""",
     author = "Josh Siegle, Nile Graddis, Xiaoxuan Jia, Gregg Heller, Chris Mochizuki, Dan Denman",
     author_email = "joshs@alleninstitute.org",
@@ -34,6 +34,7 @@ setup(
         'xmljson',
         'xarray',
         'scikit-learn',
+        'h5py',
         'joblib'
     ],
 )
