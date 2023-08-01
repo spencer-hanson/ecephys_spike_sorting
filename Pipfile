@@ -21,6 +21,8 @@ cookiecutter = "*"
 sphinx-gallery = "*"
 pytest = "*"
 "ruamel.yaml" = "*"
+wheel = "*"
+twine = "*"
 
 [packages]
 

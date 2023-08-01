@@ -1,3 +1,5 @@
+# NOTE: This fork is meant to provide an easy access install from PyPi!
+
 # ecephys spike sorting
 
 ![ecephys_spike_sorting_icon](icon.png)
